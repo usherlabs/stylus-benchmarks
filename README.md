@@ -18,3 +18,4 @@ To view the interactive charts:
 1. Enable GitHub Pages in your repository settings
 2. Navigate to `https://usherlabs.github.io/stylus-benchmarks/stylus_vs_solidity_charts.html`
 3. Or download the HTML file and open it locally in your browser
+
