@@ -16,6 +16,6 @@ Performance benchmarks comparing Solidity and Stylus smart contracts across diff
 
 To view the interactive charts:
 1. Enable GitHub Pages in your repository settings
-2. Navigate to `https://usherlabs.github.io/stylus-benchmarks/stylus_vs_solidity_charts.html`
+2. Navigate to [Interactive Charts](https://usherlabs.github.io/stylus-benchmarks/stylus_vs_solidity_charts.html)
 3. Or download the HTML file and open it locally in your browser
 
