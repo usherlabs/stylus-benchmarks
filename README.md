@@ -19,3 +19,7 @@ To view the interactive charts:
 2. Navigate to [Interactive Charts](https://usherlabs.github.io/stylus-benchmarks/stylus_vs_solidity_charts.html)
 3. Or download the HTML file and open it locally in your browser
 
+## References
+
+- https://github.com/OpenZeppelin/rust-contracts-stylus/actions/runs/14862050430/job/41729229091 (section run benches)
+- https://github.com/alephao/solidity-benchmarks/tree/main/benchmarks/0.8.24 (comparison benchmarks for referenced Stylus benchmarks)
